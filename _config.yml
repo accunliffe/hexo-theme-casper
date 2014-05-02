@@ -1,5 +1,5 @@
 # config
-cover: //blog.ghost.org/content/images/2013/Nov/cover.png
+cover: //s3.amazonaws.com/stockickr/assets/images/bg-blog.jpg
 logo: //s3.amazonaws.com/stockickr/assets/images/bloglogo.png
 bio: 'A designer, developer and entrepreneur. Spends his time travelling the world with a bag of kites. Likes journalism and publishing platforms.'
 
